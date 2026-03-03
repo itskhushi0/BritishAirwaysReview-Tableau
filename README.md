@@ -13,8 +13,8 @@ To see the full interactive dashboard on Tableau, follow this link:
 
 ## Dashboard Preview
 
-![Dashboard Screenshot](<img width="1105" height="698" alt="image" src="https://github.com/user-attachments/assets/4fa42f9a-e062-49e1-8e4a-91f5dadf3c90" />
-)
+![Dashboard Screenshot](BritishAirwaysDashboardScreenshot.png)
+
 
 ---
 
